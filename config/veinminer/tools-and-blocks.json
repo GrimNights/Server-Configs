@@ -43,11 +43,9 @@
       ],
       "blocklist": [
         "Forestry:log1",
-        "Forestry:log2",
         "Forestry:log3",
         "Forestry:log4",
         "Forestry:log5",
-        "Forestry:log6",
         "Forestry:log7",
         "Forestry:tile.for.log1",
         "Forestry:tile.for.log2",
