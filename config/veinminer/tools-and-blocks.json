@@ -43,6 +43,7 @@
         "minecraft:wooden_axe"
       ],
       "blocklist": [
+        "Forestry:leaves",
         "Forestry:log1",
         "Forestry:log2",
         "Forestry:log3",
@@ -321,6 +322,7 @@
         "BiomesOPlenty:leaves3",
         "BiomesOPlenty:leaves4",
         "BiomesOPlenty:persimmonLeaves",
+        "Forestry:leaves",
         "IC2:blockRubLeaves",
         "TwilightForest:tile.TFLeaves",
         "TwilightForest:tile.TFMagicLeaves",
